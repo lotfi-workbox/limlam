@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LimLam</string>
+    <string name="appVersion">AppVersion : 1.3.0</string>
+    <string name="info"><![CDATA[
+        "this is an open source project<br>"
+        "for more information please check:<br>"
+        <a href="https://gitlab.com/lotfi.workbox/limlam">gitlab</a>
+        ]]></string>
+    <string name="accept">accept</string>
+    <string name="empty">Empty</string>
+    <string name="loading">"Loading&#8230;"</string>
+    <string name="empty_time">00:00</string>
+    <string name="empty_musicName">Music Name</string>
+    <string name="empty_contentDescription">this in an imageView</string>
+    <string name="empty_artistAndAlbum">Artist || Album</string>
+    <string name="empty_album">album</string>
+    <string name="empty_artist">artist</string>
+    <string name="enter_name">Please enter a name</string>
+    <string name="artist_album">%1$s || %2$s</string>
+    <string name="list_size">%1$s item</string>
+    <string name="permission_denied">permission denied</string>
+    <string name="tracks">tracks</string>
+    <string name="playlists">playlists</string>
+    <string name="folders">folders</string>
+    <string name="albums">albums</string>
+    <string name="artists">artists</string>
+    <string name="genres">genres</string>
+    <string name="other">Other</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="unknown">Unknown</string>
+    <string name="title_dynamicfeature">domain</string>
+    <string name="title_domain">model.Module Domain</string>
+</resources>

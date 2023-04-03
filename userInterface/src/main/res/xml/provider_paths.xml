@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<paths>
+    <external-path name="external_files" path="." />
+    <files-path name="external_files" path="." />
+    <external-files-path name="external_files" path="." />
+    <external-cache-path name="external_files" path="." />
+    <cache-path name="external_files" path="." />
+    <external-media-path name="external_files" path="." />
+    <!-- FOR SD CARD-->
+    <root-path name="sdcard1" path="." />
+</paths>
