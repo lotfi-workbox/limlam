@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#424A60</color>
+    <color name="splash_screen_color">#BC034D</color>
+    <color name="popup_menu_dark_background">#353535</color>
+    <color name="popup_menu_dark_text">#CFCFCF</color>
+</resources>
